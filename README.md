@@ -12,7 +12,3 @@ This project implements android's most recommended architecture MVVM -> Model Vi
 
 The main and best advantage of using MVVM architecture is the separation of concerns. When you are changing the view of the application, you are provided by only view related code because all the data is presend in repository class. This is one example, but yeah you got the Idea. You can easily implement change in the view without harming the data and vice versa.
 This is quite useful when working with big applications. And thus because of this, MVVM architecture helps to build scalable application.
-
-## Demo Video
-
-https://github.com/shahrazeahmad07/Notes-App-MVVM-Room-Database/assets/68849516/515d090f-5b8c-4e33-b5c6-2fb8d54e8d41
